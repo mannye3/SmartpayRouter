@@ -30,7 +30,7 @@ composer require blinqpackage/smartpay-router
 
 Package can be access through composer package website and Git repository:
 
--   [Github](https://gitlab.com/atoman08/atoman_access_code)
+-   [Github](https://github.com/mannye3/SmartpayRouter.git)
 
 
 
